@@ -1,5 +1,5 @@
-# extension-fileds
-kotlin extension fileds, 支持backing field，线程安全
+# extension-fields
+kotlin extension fields, 支持backing field，线程安全
 
 例子：
 
